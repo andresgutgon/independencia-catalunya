@@ -76,8 +76,6 @@ p {
 }
 .author .avatar {
   display: inline-block;
-  position: relative;
-  right: -10px;
 }
 
 .ic-text-block-right .author .avatar {
@@ -126,5 +124,9 @@ footer a:hover {
   }
   .author {
     text-align: right;
+  }
+  .author .avatar {
+    position: relative;
+    right: -10px;
   }
 }
