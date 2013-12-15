@@ -11,6 +11,10 @@ p {
   font-family: "Open Sans","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
   font-weight: 300;
 }
+.ic-text-block {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
 .ic-text-block .bubble {
   padding: 10px 30px;
   border-radius: 3px;
@@ -25,10 +29,6 @@ p {
 }
 .me .large-3 {
   display: none;
-}
-.ignacio {
-  padding-top: 30px;
-  padding-bottom: 30px;
 }
 .ignacio .bubble h6 {
   text-transform: none;
